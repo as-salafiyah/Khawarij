@@ -5,7 +5,7 @@ body{
 }
 .wrapper{
 	width:793px;
-	margin: 51px 5px;
+	margin: 165px 5px;
 	font-size: 23px;
 	font-family: Arial;
 	text-align: justify;
@@ -64,7 +64,7 @@ aside{
 	width: 500px;
 	display: inline-block;
 	margin-left: 68px;
-	padding-top: 16px;
+	padding-top: 120px;
 	font-family: Arial;
 	font-size: 25px;
 }
